@@ -1,0 +1,744 @@
+{
+"html_attributions" : [],
+"next_page_token" : "CvQD5gEAAM7qQYMoStBsxDjTtH-ql_tnTmWbBNxWj_R2K_CwXpfC7Y91SQRY6DAujtSudxvByKb5VRkN4-2eP2d_zLG1syBpn6bZsIxXayEgJKr0uz8DU3hENMdcHphxm1w1-9s04QG-GOgFgO-75s9rxuGWDbMthAlwIw3hbpNhSK6kNxRs17J4DMKtTIbHpe4S8pdB8bZwKJVeZVoc7nxKHgSXa6mp-I22I4XLm7kcRrFsNVn9iJMd2xEM4LtDfxgkjzeJEwDbCUCic0PAwIr5XoCcYn3Thy3Ad03IVzssDbjurs8EtNfxFgZo2ylB5jLi6MVxHDw0kwTEzpjrXBwJP6q7xxYwkcAOJcEIC5qvWJX6qSmazfY4ihAVe82nuLqwul223BZpeJn2mAG6AnxeOEly6XFKvdm0bl9RpNQ-nXp7m5sqiaI-jMxVRVR2IuSLu8wsUERHjbWvIeHggGgUiRGbr3x4ibzTxQc0LcledMLBvPailTAHmGgcb6fmKUEGO6TojfPt7FIpc4WenahThDfkOcgzGVugIQxODtqwmRstB7nyVGbWjteRa7cGnDoKEApeHok-pnK3HLv922Z4cfKubq6N8y-2YkQveFEyxu-BjvT-FOEEcrYKIk7B2DjY0zDL37IVtQFNsM1xun8WLNQ6swUSEAOjrjdJEUwnLFzyfEUcGLwaFG6oNj6_l1pTxOm_UVgnqoYTW5Lp",
+"results" : [
+{
+"geometry" : {
+"location" : {
+"lat" : 12.9715987,
+"lng" : 77.5945627
+},
+"viewport" : {
+"northeast" : {
+"lat" : 13.173706,
+"lng" : 77.8826809
+},
+"southwest" : {
+"lat" : 12.7342888,
+"lng" : 77.3791981
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+"id" : "0862832923832bfb1e46cbe843cdaa03a9ee8aa1",
+"name" : "Bengaluru",
+"photos" : [
+{
+"height" : 720,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/113556790042299682720/photos\"\u003eMayur Panchamia\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAAhlgT8tsNh8DPWQ3BseyRviesd9jJM3Ez7qzUMsPMqRyLXdyZOpzJTzHxGdileZLqsCjrqRyglhil7UWsjn-zyxqkb3KFI6enukhW3uSlX_JXvvWaWcApcOejLR6WQChFEhDhenn2pDTSAB_XwOnUDnOmGhStAqkHdbDpXxpe19PEEupsDxSrpw",
+"width" : 960
+}
+],
+"place_id" : "ChIJbU60yXAWrjsR4E9-UejD3_g",
+"reference" : "CmRbAAAAMThuaF_hJq40p3v2OC26UNPM_uJ--plUKMuJ5NkNgKjYsqlPNGZ0ZS6tEzkouwpjRBdXvtv-0JpQqMmI43O1ojJ5DJ0EhuDezRQg2z3x9H2DOYxwIoBvRNAFtAWe6AzuEhCLuQHR_nbMt5zvWLX8xP2GGhSCf-XgiBHiT3-IfUPxuMzpLfjPBQ",
+"scope" : "GOOGLE",
+"types" : [ "locality", "political" ],
+"vicinity" : "Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.9019339,
+"lng" : 77.6326668
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9032597302915,
+"lng" : 77.63381813029152
+},
+"southwest" : {
+"lat" : 12.9005617697085,
+"lng" : 77.6311201697085
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id" : "f436b056ff9bacf7f598f33aa665da3712e96f15",
+"name" : "Robert Bosch Engineering and Business Solutions Limited",
+"opening_hours" : {
+"open_now" : false,
+"weekday_text" : []
+},
+"photos" : [
+{
+"height" : 1696,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/115143321220340541769/photos\"\u003eWilliam Rajiva\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAAJQNw8NStELmtCezqNWuF5N3QXf97CsYGdZJmpqXcH1Qr12IXJu2OSa3HUX6DyEwoxwkz6sECrVSP7nmSG34RovttvvEA6-UwJOTpLA-2tIJOiDovr3evlVbzu-4ZKpnTEhD2rPmpy71GdPpGgG9hcUSPGhRWsP_mZ-862AVRDhtwzZvYIQleCg",
+"width" : 2949
+}
+],
+"place_id" : "ChIJcUV6b5UUrjsRV8DfmK3MFOw",
+"rating" : 3.7,
+"reference" : "CmRSAAAAuU3T5VtIHDtvIOMSJCylZwWMfCrzhUC7PjIgW2OAWG1k2Q-8lnSEj0kse9rn6DILoLeXlGA66f-qQNA-GZDIZ_74A_g4HCdov8YzFy0Cuco3uH_fKZxUuuRwm5TdZuNfEhB-cuCCMvV2MFP3tZmTwfsqGhQD12SlX-jPeIZS-gjRc55XD2wpPg",
+"scope" : "GOOGLE",
+"types" : [ "point_of_interest", "establishment" ],
+"vicinity" : "690, Gold Hill Square, Hosur Road, Bommanahalli, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.902421,
+"lng" : 77.63200800000001
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9037699802915,
+"lng" : 77.63335698029151
+},
+"southwest" : {
+"lat" : 12.9010720197085,
+"lng" : 77.6306590197085
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id" : "106c8754f55026cdded328bdcb607daf238efeeb",
+"name" : "Star Health And Allied Insurance Company Limited",
+"opening_hours" : {
+"open_now" : true,
+"weekday_text" : []
+},
+"photos" : [
+{
+"height" : 671,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/117022110431826646838/photos\"\u003eStar Health And Allied Insurance Company Limited\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAARP027OoV5Wt5cQa_1d-qNRgkue7FA3JrC9Q5NKpfIejvYcQKnUeA2GqF7atLWjbQ0a_qavMiMn10Uy0SjLdCxi6QIf2nVKBWSzzt20-JoC-pRXC-obOqzIsB-tM7huezEhB3OVU118FX4a67fPEyycwMGhRLoRTMuXNSKg08Zk8hp1easMW2wA",
+"width" : 1024
+}
+],
+"place_id" : "ChIJD4UnpvcUrjsRkhBLYMcSPJk",
+"rating" : 4.8,
+"reference" : "CmRSAAAAVhipP82hVmcfeKy-D3sB7aswprqDgBFd4heZMZajglrfyj9x58f_UX1WGzcIVcGMXD4C9id_xj0GaZtY85U--LBqGpfpd-2_qJdXhgZlGRKc3KPi4aBPT6Z9U98zfy-REhByzV56F97FmzM5siRcjrOuGhT3IU0wMKnmmRKBznocwLB57Rq6jQ",
+"scope" : "GOOGLE",
+"types" : [ "insurance_agency", "health", "point_of_interest", "establishment" ],
+"vicinity" : "Sarjapur Main Road, 187, Hosur Road, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.9029629,
+"lng" : 77.63185899999999
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9043597302915,
+"lng" : 77.6330644302915
+},
+"southwest" : {
+"lat" : 12.9016617697085,
+"lng" : 77.63036646970849
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+"id" : "70f79424cde61dfc4f5bbe3eacd053a24d0b6fb6",
+"name" : "Hemadri Ceramics",
+"opening_hours" : {
+"open_now" : true,
+"weekday_text" : []
+},
+"photos" : [
+{
+"height" : 1152,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/101903515222754219678/photos\"\u003eEsther Smitha\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAAlFnFtcKtL3x9jDeQ5ucwSpHpomcHPXjYU0IS9mVURuiJw8xUvhTzvL7Anw_ltBauCCbo4VqVqZJu5pMK0P43rGM_gI0Iu17Xia3Feu-595jIr0tddDolpo4CoR3yj9CnEhDkC3UNgEHzOLF5rQVHN3xYGhQnNlWViyxFiMCii1ujniRI_tioKQ",
+"width" : 2048
+}
+],
+"place_id" : "ChIJlTvdO5UUrjsRC_93z4gCEd8",
+"rating" : 3.2,
+"reference" : "CmRSAAAAs0DZx_7rJgElAvPlT8vCq7KXdp-8-vv_mJV4olI_zrZ5PlQ2gjgXDIeMOt0cB-U4IrCKpHK1VLGWu2MT4aKN78ThZc_Kx7Y3UIfxt9y-qqiLxPw0NPEE7prLWYZIrUTvEhAFWdXRPqGr6E0yp9tnBkmIGhR5CinadVc2SB0vJSY88pT7pndOOQ",
+"scope" : "GOOGLE",
+"types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+"vicinity" : "11/3, Hosur Main Road, Opposite to ICICI Bank, Bommanahalli, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.9014963,
+"lng" : 77.63127999999999
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9032817302915,
+"lng" : 77.63276718029151
+},
+"southwest" : {
+"lat" : 12.9005837697085,
+"lng" : 77.63006921970849
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+"id" : "c53a1fa0c061181add31f3e446d3ec636f789506",
+"name" : "The Oxford College of Engineering",
+"opening_hours" : {
+"open_now" : true,
+"weekday_text" : []
+},
+"photos" : [
+{
+"height" : 3456,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/116629134925974729530/photos\"\u003eThe Oxford College Of Engineering\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAARl0uKjXXlKZof6L0waYNyiVazQapA48F3NhyvkcZ6uEdskvg3BrHkP0FxKoNg0nC-Awpud8Q5z9GO_WjggoBb9N72jHTZ1kRrlVHGEM1lDSq1JPUDF4b30P8ziH6RFm0EhACNvEu4Mp9orSpS02APWdkGhRorKXZq_Fj1xFpB_jwf6RV_5fkZg",
+"width" : 5184
+}
+],
+"place_id" : "ChIJU-PyWZUUrjsRly-XcQJ5s6w",
+"rating" : 3.5,
+"reference" : "CmRSAAAAiBrXzYDxOAeRKK3fnswqbFvsZOH6j0_Y7gyjoG7mU1LT4vL11vzlnKYsnfMhesnx_auw_8Zk0oK8od7ZxQtacY0hM1Em_sprFLq3UR6ouH8FdngfBaHSKmg30SG1k_RLEhDuECvQDKVkOej3y-LbKopcGhSmI8SmDyD_DKpkKv29yN9V8bTMZQ",
+"scope" : "GOOGLE",
+"types" : [ "university", "point_of_interest", "establishment" ],
+"vicinity" : "10th Milestone, Bommanahalli, Hosur Road, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.902932,
+"lng" : 77.63193299999999
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9042403302915,
+"lng" : 77.63315618029149
+},
+"southwest" : {
+"lat" : 12.9015423697085,
+"lng" : 77.63045821970847
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id" : "525ccb216863886502bb5451371aa7b27e9bb36a",
+"name" : "Minjar Cloud Solutions",
+"opening_hours" : {
+"open_now" : false,
+"weekday_text" : []
+},
+"photos" : [
+{
+"height" : 4096,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/108739480188285852294/photos\"\u003ejanu jeevan\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAAo7VoIZF7cSPqW_SnZ-d02G7LNDyoWPsTaHnCALQ2C1iB-43QxKOP7F2OKGZEacLyEHEIsu3dM-R6ih3puEbmDhdwu-Unhddl3XIwwnv5J7JWKLvu7ULCxcH9VpX6231hEhCyGm_vDYkmg9uCylx7-UnWGhTrHQdUpZXP8PudVPz4D-L9T42XLw",
+"width" : 2304
+}
+],
+"place_id" : "ChIJ6V-NPpUUrjsR8K41AzHsCVA",
+"rating" : 4.9,
+"reference" : "CmRRAAAA53_unqILrqGngxOF3PpvyaN34SXbOw0JGxlXOVuqnRPgr5kH-HJIc6Ctv2pasunUB8So6ZeBx56_ALnn1Me0G5D8ys_b3E6KfBYr6TrUwu-0yHCOur7ATaCAEDrnhbY4EhC_orOvT_kiuTJ_5pm4Lw22GhQryNkXjOlmve8tZFcnL3yT5-FtQg",
+"scope" : "GOOGLE",
+"types" : [ "point_of_interest", "establishment" ],
+"vicinity" : "11/3, Hosur Road, Bommanhalli, Popular Colony, Mangammanapalya, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.903001,
+"lng" : 77.631444
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9043499802915,
+"lng" : 77.63279298029151
+},
+"southwest" : {
+"lat" : 12.9016520197085,
+"lng" : 77.63009501970849
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id" : "b86b6216f783aa63ca7f513acf7316fb3d9f399f",
+"name" : "Ahuja Oil Corporation",
+"place_id" : "ChIJwxMMOpUUrjsRUSN7C6zA8Ig",
+"reference" : "CmRSAAAA5M4_bznlr0PY4kgm6rUpAT4w_VURdqzSujRA3XpcWZ7Zajl6x2EdmgIR1SzPJndBgY7NJrml77gzZSIyL33NA2CA6ZdB6G_D_m5QAwO5kJbbHtSbt3gNiSHz39Vy4V7YEhCW5SqYcTd7UbzOuwRikpX4GhQb2MgXJ_ItPxXh_SQd0hh9M4ZwIg",
+"scope" : "GOOGLE",
+"types" : [ "point_of_interest", "establishment" ],
+"vicinity" : "#112, Hosur Road, Bommanahalli, Hongasandra, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.902937,
+"lng" : 77.6315266
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9042859802915,
+"lng" : 77.6328755802915
+},
+"southwest" : {
+"lat" : 12.9015880197085,
+"lng" : 77.63017761970849
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id" : "103dcbc12c5b125c6bcb3393a132d6e5636cf6cb",
+"name" : "Prasanna Transport Network Pvt Ltd",
+"place_id" : "ChIJtX_lIvcUrjsRc0m_1j_ivHI",
+"reference" : "CmRRAAAAPnh8LknXRQnWGVX3Jm5X64WQdsQDlNEjttcs2cog27sjgEmJrDFmub_C_DSk5Ok0NYJrChIXR69yMiv1iS6-9J-H5PYL_am9OHtGmm_zmVa6_6kD72LXrg5XSnXL-Ks3EhCIbT228aHm52Y89mRTtsbVGhQhX6-1pxARmfSSySj35k5ukQ6JLQ",
+"scope" : "GOOGLE",
+"types" : [ "point_of_interest", "establishment" ],
+"vicinity" : "No. 66 Heggadadevanapura Village, Dasanapura Hobli,North Taluka, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.902982,
+"lng" : 77.631766
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9043309802915,
+"lng" : 77.63311498029151
+},
+"southwest" : {
+"lat" : 12.9016330197085,
+"lng" : 77.6304170197085
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+"id" : "701ac8c0223f466da28faedbf220e5502aa18b5b",
+"name" : "Kajaria Tiles - Galaxy Showroom",
+"opening_hours" : {
+"open_now" : true,
+"weekday_text" : []
+},
+"photos" : [
+{
+"height" : 3092,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/106152473898816539479/photos\"\u003eSooraj T\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAABJnCcaWvhwQK7jj_jC5Lp1qSpVf2P4cYuFwh1GiXGzt08Yqbpor_wcbOBEEAMBIGs-03hWrNYXW21w5VQ2eoJG2KVtYaQ2BjjEoiM8-p3SnHCWH5Mi-0QFcJUd2RwpZOEhBUVqMKPKckYZJo9cIxgYeQGhSO0KZvGDX6vkNogvq0Xlx3slxaiw",
+"width" : 4018
+}
+],
+"place_id" : "ChIJ4U34O5UUrjsR8fSqFZl6TU0",
+"rating" : 4,
+"reference" : "CmRRAAAAsFHRDpdnebxk70VDYIOmJDaEpCqJtlrOkee5ieW_YcU9v3EWfOrKunPDNA79BApwMTfvPO_jfHhdt6mfhoFUHQApOsMynJYwhGxMDTfMuJK7NUUMQrkUoufqOoVwt4_GEhCJVQgRjIaPa8Lv6cBWZVkJGhSXZs6a26YiET8cuBuUublKy1yzgw",
+"scope" : "GOOGLE",
+"types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+"vicinity" : "Hemadri Ceramics, Mangammanapalya, 11/3, Hosur Road, Popular Colony, Bommanahalli, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.9027142,
+"lng" : 77.6318708
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9040631802915,
+"lng" : 77.63321978029151
+},
+"southwest" : {
+"lat" : 12.9013652197085,
+"lng" : 77.63052181970849
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+"id" : "7b0e242a5944d01a44044bb6d1160674f7ff1ba4",
+"name" : "Sri Yakshi Brahmalingeshwara Condiments",
+"opening_hours" : {
+"open_now" : true,
+"weekday_text" : []
+},
+"photos" : [
+{
+"height" : 584,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/100810176507087436640/photos\"\u003eSri Yakshi Brahmalingeshwara Condiments\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAAgeXcztvNIrR6OAK_1jGj-wv9RnpK6oIVLVUzcpr7_EfeQ9P02EmOqbWj7BKnXcipPkFUbGgCIWzbOJiDngnc8L9SgdVmJG5mysZSIEkP0Hd9JI7q31uxkr6-nsjaZC0oEhCMNwBI3GUor96woxyqwndfGhT6ODFkb2cC86R0BUYnrvw7BL7RDQ",
+"width" : 575
+}
+],
+"place_id" : "ChIJhT8WP5UUrjsRGm3Io3WGHxc",
+"reference" : "CmRRAAAAgMfBTq4ak4PKbum4J1qAtbI3e7-cmyHzfZzG1Pq2WH_wDyUW-qRZmjl2_yR9s7cPn8JRtz8BeUPKRFHTjfxcD6RIFzqP4HadAfINZVUrZktMw4gTkIJSpqpRmEdW6v9pEhClWAzVfaCqpC49My8LpP9DGhRjkSb0RlnBinnQatcYj1_xPbnOnw",
+"scope" : "GOOGLE",
+"types" : [ "bakery", "store", "food", "point_of_interest", "establishment" ],
+"vicinity" : "Shop No.18, Hosur Road, Bommanahalli, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.9026753,
+"lng" : 77.63185570000002
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9040242802915,
+"lng" : 77.63320468029151
+},
+"southwest" : {
+"lat" : 12.9013263197085,
+"lng" : 77.63050671970851
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+"id" : "efdb9dc2f606baf7b5cfe96598a7672c6930aa08",
+"name" : "Sri Brahmakunda Juice Point",
+"opening_hours" : {
+"open_now" : true,
+"weekday_text" : []
+},
+"photos" : [
+{
+"height" : 584,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/113403644926382099294/photos\"\u003eSri Brahmakunda Juice Point\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAA07oO_WBdBbkQeWblKGToPlCU9gMRqxALkEjI6TCTuCV-llHa4o4mJMtFr8Xi-utxFg4FiQIYAj6vWZvfF5RT6ouGTaTwzIL-8NkAGnmhVOpdJcM6iIW4Ajhpsv-t7pFgEhCIbE3m4DuHLoKBXbZH9i_tGhS8jlohrLtAUgSOBeQDJHOjVdMqPA",
+"width" : 1040
+}
+],
+"place_id" : "ChIJjVNAP5UUrjsRFevuMeHPai0",
+"rating" : 3.6,
+"reference" : "CmRRAAAAdwgyY4JMrRO0yd7Ca0quBGKT4KVczlextvmshquz4VeaXZQ7vpvu6JDHQJcEuPUoxbAqgLL1M23qnuTD6_kLNgRz36OAlQKSQ4YAUUtA6MTwoWBc5OsRbtNff5JiKCKsEhDJDZsWMDUXqWZei8S74Ef_GhSOxzl9g8zJIK5i7lQ9nL2frWGaEw",
+"scope" : "GOOGLE",
+"types" : [ "food", "point_of_interest", "establishment" ],
+"vicinity" : "Shop No.7/1, Hosur Road, Bommanahalli, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.9026387,
+"lng" : 77.6319087
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9039876802915,
+"lng" : 77.63325768029151
+},
+"southwest" : {
+"lat" : 12.90128971970849,
+"lng" : 77.6305597197085
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id" : "70f2f1865b742f288c8af9ce74e841fc6e03a4d4",
+"name" : "Clean Water Services",
+"opening_hours" : {
+"open_now" : true,
+"weekday_text" : []
+},
+"photos" : [
+{
+"height" : 808,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/102458546081335846634/photos\"\u003eClean Water Services\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAAxPG82KOZmTMocZaID1sUt_XCoqhezwiEduqmzyT-V4ccAXS0GHymNSUNhjMoX2Irz8Xj9-0_qvGozCkAmjIuekEbZAjaoZA84llttZVA-BMl7OIPKu0qcWQ835-3ORGwEhA2XlZFAYAJj7Qf9kcCmSqzGhQgjrNjX1Ll9OlyixZAihpESEqwDg",
+"width" : 800
+}
+],
+"place_id" : "ChIJiUllP5UUrjsRLzZRj9vnULE",
+"rating" : 2.5,
+"reference" : "CmRSAAAAv44S3vmLO0LpMxD-K-mLJy1xFUI7bHT0KSWL3HkEvthhAmZnJCXNpUfM01n20pAbr4qF2r0__LdN0_uki9QanYy_FNpxULL2HagGdw_dp7a4sxbQPsOestmvp-Cak_0TEhCbu4DldhD22w7unLebGqLqGhSEFkEjZruurQB_xS9ygjzkxK2iyg",
+"scope" : "GOOGLE",
+"types" : [ "food", "point_of_interest", "establishment" ],
+"vicinity" : "Hosur Road, Popular Colony, Bommanahalli, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.9029367,
+"lng" : 77.6315264
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9042856802915,
+"lng" : 77.63287538029151
+},
+"southwest" : {
+"lat" : 12.9015877197085,
+"lng" : 77.63017741970849
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id" : "75f4f512eb0a4577bddb85ae456059460d06ebbf",
+"name" : "akasam consulting pvt ltd",
+"place_id" : "ChIJEaUgOpUUrjsRu9E6SNDv7EY",
+"reference" : "CmRRAAAALIKzV7MJQxWHuEqZ1h505U9d5aXWn_jPqALRdYE0G12ax3C6O92DN3L0zOpbzuse7NVKa311zbo5Gz0FK4tDAW4tN_ABnGYbjceSxowX2HdF6btzKbq3Wnf6tOH1XS-0EhDLVpKh9Wt2jHmcfup3-xq6GhThay5IKroFE1I28re_VT-RN5o4RQ",
+"scope" : "GOOGLE",
+"types" : [ "finance", "point_of_interest", "establishment" ],
+"vicinity" : "Hosur Road, Popular Colony, Mangammanapalya, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.902937,
+"lng" : 77.63152599999999
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9042859802915,
+"lng" : 77.6328749802915
+},
+"southwest" : {
+"lat" : 12.9015880197085,
+"lng" : 77.6301770197085
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id" : "d9cedb760b5566edecbc89e87d8c1080e71963d5",
+"name" : "O S E L",
+"opening_hours" : {
+"open_now" : true,
+"weekday_text" : []
+},
+"place_id" : "ChIJMQCsusZqrjsRBYr9M5c_hH4",
+"reference" : "CmRRAAAAZEk9Q85JQdFQgH1sPa5-DTBqFbcSxXeS9EHjoa51KpvEqwoNVCOxdL4KrLO8nhzy63Ie-8TQWTj8JuvsFyUh0Jha9eLMYnCBJ_JBR2h7NO2GCP0jC6hLDmgLu-Maoq8eEhCcXNX1CsRZXbQ_21veyPzeGhQ88a2JEsLMGzS55M-f3txLHPlU9g",
+"scope" : "GOOGLE",
+"types" : [ "point_of_interest", "establishment" ],
+"vicinity" : "Plot #9, 4th Phase, Bommasandra Industrial Area, Hosur Road, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.902466,
+"lng" : 77.63198299999999
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9038149802915,
+"lng" : 77.6333319802915
+},
+"southwest" : {
+"lat" : 12.9011170197085,
+"lng" : 77.63063401970849
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id" : "f60fa241a45113e688ae205e126645fc66ec4350",
+"name" : "Onsite Packers and Movers Bangalore",
+"opening_hours" : {
+"open_now" : true,
+"weekday_text" : []
+},
+"photos" : [
+{
+"height" : 960,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/100908280332421004675/photos\"\u003eOnsite Packers and Movers Bangalore\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAAxqGZIWM4qCUdgs2WhWZLf8QwMEh_D7B6U3cyLwGhzLQvGdFuQi8rbgs3ypRR5vsw_ZIHvNoUi926GXpxGi6pRJu-oDUA3yTLTePCwWF05BRjF12foIep5XB-JoWGX0KuEhA6FQrZtZsJTomP_tz85evMGhS7VTVZ3Ngz3r8XajYKajG0GwbyJw",
+"width" : 1280
+}
+],
+"place_id" : "ChIJqWIPpe0UrjsRxNNTwD6HYv4",
+"rating" : 5,
+"reference" : "CmRSAAAAuHaU4W_KYh0VDeUVpQMfv_BxsqJr8KwMKVJfDJdMJfNl4P14QFfunFxU34lQ9l_2kGP-UYJKjXMRB1T3fj0EuR1Bg8ZxP_bKdji2G1Sn7eFWghPnd8ev5ZPj1fKGKSVSEhDfIWg4ObimrXmeuYuuVMXSGhTQELfrS38QIhihNLMcw_M_2nOhOg",
+"scope" : "GOOGLE",
+"types" : [ "point_of_interest", "establishment" ],
+"vicinity" : "Bus Stop, Level-1, 53/1, 17th Main HSR Layout, Sector -7, Hosur Main Road Near, Roopena Agrahara, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.9024303,
+"lng" : 77.6314484
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9037792802915,
+"lng" : 77.63279738029151
+},
+"southwest" : {
+"lat" : 12.9010813197085,
+"lng" : 77.63009941970849
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+"id" : "8d2df64db6f814e04a36346ec5d4e5354c271931",
+"name" : "Ayoka Flowers",
+"place_id" : "ChIJz0xS7O0UrjsRhiP3axiyEik",
+"rating" : 3,
+"reference" : "CmRRAAAA3aPF6HKnLsm-pW_SmmMMpmXOQyLbS9FjJkd8FuK1Zgj-ibr-OnzVg4KPDP0ml-Cde8OrRFSum2S7VP-8Zm9lNJq8WJehXeLWsOMWGRbSCr5yqKHmF3Ca8Xq6xsmFixfmEhBUE2kuFCdjoqtfWLfxEqz7GhT4KtN_lIGgV3duOAeygTR983kBwQ",
+"scope" : "GOOGLE",
+"types" : [ "florist", "store", "point_of_interest", "establishment" ],
+"vicinity" : "Bommanahalli ,Hosur Road, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.9035156,
+"lng" : 77.6315738
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9048645802915,
+"lng" : 77.63292278029151
+},
+"southwest" : {
+"lat" : 12.9021666197085,
+"lng" : 77.63022481970849
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+"id" : "970c4263e2759f389ce528d2c0318408e94a1900",
+"name" : "KCL industries",
+"place_id" : "ChIJJ_WxJZUUrjsRTDVoiT4WvE8",
+"rating" : 5,
+"reference" : "CmRRAAAAfjSHE4cb6vq9dvH0Bn8jGlJzY5J660yduiGOS80JRLpL4PGNbTeItBduQDnTJIUlUAxcmM7Yvh-Efwt5cc-rbHi32UKwWvwLyEzSolZAyf5fTLWOVXWpSLeRkUQX4o0LEhD1yfN_vePxg0PNE4mEbH-RGhQHZFPG5iZMnzjZgeh1fa-97v7spw",
+"scope" : "GOOGLE",
+"types" : [ "point_of_interest", "establishment" ],
+"vicinity" : "285/2, Hosur Road, Madiwala, Popular Colony, Bommanahalli, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.9034272,
+"lng" : 77.6314536
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9047761802915,
+"lng" : 77.63280258029151
+},
+"southwest" : {
+"lat" : 12.9020782197085,
+"lng" : 77.63010461970849
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+"id" : "e4d6ee1c0dfab34e73d9c2ba07b49d11a9518d10",
+"name" : "MAAZ Furnitures",
+"opening_hours" : {
+"open_now" : true,
+"weekday_text" : []
+},
+"photos" : [
+{
+"height" : 1440,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/118425407760409990062/photos\"\u003eSyed Aleem\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAAgCXuOr2MZr_jHxJ_kTHCGlH0L81ZDPbU0MA3c9T5icuQVNkBxULbj3OChbm-TUzfnOyJboZviSUWjMrNIftBnipij63nqOD_ylElX-5w-u2Mg0Si3627LcifcQngprxNEhBDyfqrc0BS1bCCWXsva5XzGhRIb2oc5mViT9j-Kv9d7tVTkzKp0A",
+"width" : 2560
+}
+],
+"place_id" : "ChIJPbbTPpUUrjsRgFggnn6tivA",
+"rating" : 4.6,
+"reference" : "CmRSAAAApN7DQLIPZ1W0wADk0jDiBcVZ4wCw7n6Xi5PM-AimLH8GuqLRJD419Q0yZiPUocLTlGx4v61xAjQWSz12aZlfAhFkTBB0GNrck1bMUIPxquKGZyqdhESRY6op3qgiDYgnEhCQMZTkpCFPdrl13gTcrRF5GhTbi6oLhEZzVdZ5FOoHx6y-wE9sIA",
+"scope" : "GOOGLE",
+"types" : [
+"furniture_store",
+"home_goods_store",
+"store",
+"point_of_interest",
+"establishment"
+],
+"vicinity" : "Service Road, Gharebhavipalya, Mangammanapalya, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.9034293,
+"lng" : 77.631433
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.9047782802915,
+"lng" : 77.6327819802915
+},
+"southwest" : {
+"lat" : 12.9020803197085,
+"lng" : 77.63008401970849
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+"id" : "c73f6e59206945c24309561633d8866622c79502",
+"name" : "Sarah Furniture",
+"opening_hours" : {
+"open_now" : true,
+"weekday_text" : []
+},
+"photos" : [
+{
+"height" : 3456,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/106788197519313240442/photos\"\u003eSarah Furniture\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAAOC-BK0hkmjlZ1hkn3pvScDE-_76Tx0akOPWDfL0jsPM5yS6o4gIvgP-O1LrzM6tVj5EszF_-E9MaHbx3Z1vE4MKWVnEJcR8u7PUMg9_x8f2ridt3aML0TBbDlyxwYYdfEhC_KIiDkvzE2RdIbUP7kplZGhTlrLN_Gk7W_xvIlnh7d5dkEnIq2A",
+"width" : 5184
+}
+],
+"place_id" : "ChIJ6XmwG-gVrjsR4caPAn2f0vM",
+"rating" : 3.9,
+"reference" : "CmRSAAAAi19Tz6SqY0I_Fy4EkzeeK2seP5ZbEYOhIWlyS9V0nY3CFQFMHCHDA5ECD-WP5T335ICh1UyjRBkcum4FwhGP5XKHo8Kj6ykf5jJFh-KMH7RORw23WOSy3rsLYRf2vLPeEhD1hKZYmsc1DWMgaKz9hd2tGhStd54SE_5f1zt9qIJciYa4i-NaDw",
+"scope" : "GOOGLE",
+"types" : [
+"furniture_store",
+"home_goods_store",
+"store",
+"point_of_interest",
+"establishment"
+],
+"vicinity" : "Metro building opposite Vijaya Laxmi saw Mill, Hosur Road, Bommanahalli, Bengaluru"
+},
+{
+"geometry" : {
+"location" : {
+"lat" : 12.8942722,
+"lng" : 77.6289517
+},
+"viewport" : {
+"northeast" : {
+"lat" : 12.902693,
+"lng" : 77.6346143
+},
+"southwest" : {
+"lat" : 12.8863391,
+"lng" : 77.61953099999999
+}
+}
+},
+"icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+"id" : "200311b4aa81645cfb5042f18ebc40c4b814b0d5",
+"name" : "Hongasandra",
+"photos" : [
+{
+"height" : 1620,
+"html_attributions" : [
+"\u003ca href=\"https://maps.google.com/maps/contrib/113953582892332153409/photos\"\u003eShivam Sharma\u003c/a\u003e"
+],
+"photo_reference" : "CmRaAAAAtAD9tUmvL2Cc1Jjz3bD8CTbHbaG8MP0F2SswK1TF7weVtDDcT33Zuqaa78YquLgKtRVusdpsuX2lQG7nXLifqXeO4FIirCJs_yKLHqNbjGbhTM4P0vU8cgyGHofUlBSpEhAA_iUR8_g-xqsnx25fhhBuGhStcQsho6DH-vnNieJ9AweEELKaKA",
+"width" : 1080
+}
+],
+"place_id" : "ChIJS6gB7MAUrjsRoXBMeJaXm_M",
+"reference" : "CmRbAAAADufNZYAuEQrRIv1ZeP0O--xbefXGac9MyB9nR1vZkFeLFCXIrqb9h7VCj7CB7dl78eDu-U0Pu5wUseCgtdayP5RpZ8J_uHYRyhHadOU5UoClEsDvLonW4APWWCjVUaTKEhDt5Wxz3apijz6g7fMAYlNPGhQHPmXL9cbhBGmtJDezBlt233rg6A",
+"scope" : "GOOGLE",
+"types" : [ "sublocality_level_1", "sublocality", "political" ],
+"vicinity" : "Hongasandra"
+}
+],
+"status" : "OK"
+}
