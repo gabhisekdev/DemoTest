@@ -19,6 +19,7 @@
 		6B0DFE2D20D4A17F00F90DBF /* PlaceCellDataModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B0DFE2C20D4A17F00F90DBF /* PlaceCellDataModelTests.swift */; };
 		6B0DFE2F20D4A19300F90DBF /* PlaceListViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B0DFE2E20D4A19300F90DBF /* PlaceListViewModelTests.swift */; };
 		6B0DFE3120D4A1A900F90DBF /* PlaceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B0DFE3020D4A1A900F90DBF /* PlaceTests.swift */; };
+		6BF2913520D57A30001A58CD /* PlacesList.json in Resources */ = {isa = PBXBuildFile; fileRef = 6BF2913420D57A30001A58CD /* PlacesList.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		6B0DFE2C20D4A17F00F90DBF /* PlaceCellDataModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceCellDataModelTests.swift; sourceTree = "<group>"; };
 		6B0DFE2E20D4A19300F90DBF /* PlaceListViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceListViewModelTests.swift; sourceTree = "<group>"; };
 		6B0DFE3020D4A1A900F90DBF /* PlaceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceTests.swift; sourceTree = "<group>"; };
+		6BF2913420D57A30001A58CD /* PlacesList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PlacesList.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 		6B0DFE2020D4A06E00F90DBF /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				6BF2913420D57A30001A58CD /* PlacesList.json */,
 				6B0DFE0320D4A04300F90DBF /* Assets.xcassets */,
 			);
 			path = Resources;
@@ -246,6 +249,7 @@
 				6B0DFE0720D4A04300F90DBF /* LaunchScreen.storyboard in Resources */,
 				6B0DFE0420D4A04300F90DBF /* Assets.xcassets in Resources */,
 				6B0DFE0220D4A04200F90DBF /* Main.storyboard in Resources */,
+				6BF2913520D57A30001A58CD /* PlacesList.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
