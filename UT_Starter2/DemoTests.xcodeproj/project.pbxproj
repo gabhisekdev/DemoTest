@@ -20,7 +20,6 @@
 		6B0DFE2F20D4A19300F90DBF /* PlaceListViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B0DFE2E20D4A19300F90DBF /* PlaceListViewModelTests.swift */; };
 		6B0DFE3120D4A1A900F90DBF /* PlaceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B0DFE3020D4A1A900F90DBF /* PlaceTests.swift */; };
 		6BF2913520D57A30001A58CD /* PlacesList.json in Resources */ = {isa = PBXBuildFile; fileRef = 6BF2913420D57A30001A58CD /* PlacesList.json */; };
-		6BF2913820D57C64001A58CD /* DataFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF2913720D57C64001A58CD /* DataFetcher.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,7 +50,6 @@
 		6B0DFE2E20D4A19300F90DBF /* PlaceListViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceListViewModelTests.swift; sourceTree = "<group>"; };
 		6B0DFE3020D4A1A900F90DBF /* PlaceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceTests.swift; sourceTree = "<group>"; };
 		6BF2913420D57A30001A58CD /* PlacesList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PlacesList.json; sourceTree = "<group>"; };
-		6BF2913720D57C64001A58CD /* DataFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataFetcher.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,7 +91,6 @@
 		6B0DFDFB20D4A04200F90DBF /* DemoTests */ = {
 			isa = PBXGroup;
 			children = (
-				6BF2913620D57C40001A58CD /* DataFetcher */,
 				6B0DFE2120D4A0AB00F90DBF /* Model */,
 				6B0DFE2020D4A06E00F90DBF /* Resources */,
 				6B0DFE1F20D4A05C00F90DBF /* ViewModel */,
@@ -166,15 +163,6 @@
 				6B0DFE2420D4A0D700F90DBF /* PlaceCellDataModel.swift */,
 			);
 			path = Model;
-			sourceTree = "<group>";
-		};
-		6BF2913620D57C40001A58CD /* DataFetcher */ = {
-			isa = PBXGroup;
-			children = (
-				6BF2913720D57C64001A58CD /* DataFetcher.swift */,
-			);
-			name = DataFetcher;
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -280,7 +268,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B0DFE2720D4A0F900F90DBF /* PlaceListViewModel.swift in Sources */,
-				6BF2913820D57C64001A58CD /* DataFetcher.swift in Sources */,
 				6B0DFE2520D4A0D700F90DBF /* PlaceCellDataModel.swift in Sources */,
 				6B0DFE2920D4A11800F90DBF /* PlaceListController.swift in Sources */,
 				6B0DFDFD20D4A04200F90DBF /* AppDelegate.swift in Sources */,

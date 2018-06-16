@@ -8,7 +8,7 @@
 
 import UIKit
 
-class PlaceListController: UIViewController, UITableViewDataSource {
+class PlaceListController: UIViewController,UITableViewDataSource,UITableViewDelegate {
     
     @IBOutlet weak var headerLabel: UILabel!
     @IBOutlet weak var tableView: UITableView!

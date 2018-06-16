@@ -94,7 +94,6 @@
 			isa = PBXGroup;
 			children = (
 				6B3158E220CD68CD00CEABD0 /* App */,
-				6B3158E420CD68CD00CEABD0 /* Base.lproj */,
 				6B3158E020CD68CD00CEABD0 /* DataFetcher */,
 				6B3158DB20CD68CD00CEABD0 /* Model */,
 				6B3158E520CD68CD00CEABD0 /* Resources */,
@@ -148,13 +147,6 @@
 				6B3158E320CD68CD00CEABD0 /* AppDelegate.swift */,
 			);
 			path = App;
-			sourceTree = "<group>";
-		};
-		6B3158E420CD68CD00CEABD0 /* Base.lproj */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Base.lproj;
 			sourceTree = "<group>";
 		};
 		6B3158E520CD68CD00CEABD0 /* Resources */ = {
