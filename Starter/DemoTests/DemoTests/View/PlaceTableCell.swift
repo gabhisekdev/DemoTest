@@ -1,23 +1,18 @@
 //
 //  PlaceTableCell.swift
-//  NearbyDemoTest
+//  DemoTests
 //
-//  Created by Abhisek on 6/9/18.
+//  Created by Kuliza-241 on 6/16/18.
 //  Copyright © 2018 Abhisek. All rights reserved.
 //
 
 import UIKit
 
 class PlaceTableCell: UITableViewCell {
-    
-    @IBOutlet weak var titleLabel: UILabel!
-    @IBOutlet weak var ratingLabel: UILabel!
-    @IBOutlet weak var addressLabel: UILabel!
-    @IBOutlet weak var statusLabel: UILabel!
-    
+
     override func awakeFromNib() {
         super.awakeFromNib()
-        selectionStyle = .none
+        // Initialization code
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
@@ -27,4 +22,3 @@ class PlaceTableCell: UITableViewCell {
     }
 
 }
-

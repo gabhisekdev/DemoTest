@@ -16,7 +16,6 @@
 		6B09564F20D368C20088D5EA /* PlaceCellDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B09563E20D368C20088D5EA /* PlaceCellDataModel.swift */; };
 		6B09565020D368C20088D5EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B09564020D368C20088D5EA /* LaunchScreen.storyboard */; };
 		6B09565120D368C20088D5EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B09564220D368C20088D5EA /* Main.storyboard */; };
-		6B09565220D368C20088D5EA /* DataFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B09564520D368C20088D5EA /* DataFetcher.swift */; };
 		6B09565320D368C20088D5EA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B09564720D368C20088D5EA /* AppDelegate.swift */; };
 		6B09565720D36B080088D5EA /* PlaceListViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B09565420D36B080088D5EA /* PlaceListViewModelTests.swift */; };
 		6B09565820D36B080088D5EA /* PlaceCellDataModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B09565520D36B080088D5EA /* PlaceCellDataModelTests.swift */; };
@@ -47,7 +46,6 @@
 		6B09563E20D368C20088D5EA /* PlaceCellDataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceCellDataModel.swift; sourceTree = "<group>"; };
 		6B09564120D368C20088D5EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B09564320D368C20088D5EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		6B09564520D368C20088D5EA /* DataFetcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataFetcher.swift; sourceTree = "<group>"; };
 		6B09564720D368C20088D5EA /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6B09565420D36B080088D5EA /* PlaceListViewModelTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceListViewModelTests.swift; sourceTree = "<group>"; };
 		6B09565520D36B080088D5EA /* PlaceCellDataModelTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceCellDataModelTests.swift; sourceTree = "<group>"; };
@@ -163,7 +161,6 @@
 		6B09564420D368C20088D5EA /* DataFetcher */ = {
 			isa = PBXGroup;
 			children = (
-				6B09564520D368C20088D5EA /* DataFetcher.swift */,
 			);
 			path = DataFetcher;
 			sourceTree = "<group>";
@@ -281,7 +278,6 @@
 				6B09564920D368C20088D5EA /* PlaceListViewModel.swift in Sources */,
 				6B09564F20D368C20088D5EA /* PlaceCellDataModel.swift in Sources */,
 				6B09564B20D368C20088D5EA /* PlaceTableCell.swift in Sources */,
-				6B09565220D368C20088D5EA /* DataFetcher.swift in Sources */,
 				6B09565320D368C20088D5EA /* AppDelegate.swift in Sources */,
 				6B09564A20D368C20088D5EA /* PlaceListController.swift in Sources */,
 				6B09564E20D368C20088D5EA /* Place.swift in Sources */,

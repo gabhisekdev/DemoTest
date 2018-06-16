@@ -13,7 +13,6 @@ class PlaceListController: UIViewController,UITableViewDataSource,UITableViewDel
     @IBOutlet weak var headerLabel: UILabel!
     @IBOutlet weak var tableView: UITableView!
     
-    
     let viewModel = PlaceListViewModel(dataFetcher: PlaceDataFetcher())
 
     override func viewDidLoad() {

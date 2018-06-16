@@ -1,8 +1,8 @@
 //
 //  PlaceCellDataModel.swift
-//  NearbyDemoTest
+//  DemoTests
 //
-//  Created by Abhisek on 6/10/18.
+//  Created by Kuliza-241 on 6/16/18.
 //  Copyright © 2018 Abhisek. All rights reserved.
 //
 
