@@ -28,7 +28,7 @@ class PlaceCellDataModelTests: XCTestCase {
     }
     
     func testAttributes() {
-        // Test if the attributes are nil.
+        // Attributes should not be nil.
         XCTAssertNotNil(sut.name, "Name is nil in PlaceCellDataModel")
         XCTAssertNotNil(sut.address, "Address is nil in PlaceCellDataModel")
         XCTAssertNotNil(sut.openStatusText, "OpenStatus is nil in PlaceCellDataModel")
