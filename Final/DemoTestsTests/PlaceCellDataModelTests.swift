@@ -41,8 +41,7 @@ class PlaceCellDataModelTests: XCTestCase {
         
         var openStatusText = ""
         guard let isOpen = place.openStatus else {
-            openStatusText = "Sorry we are closed."
-            XCTAssertEqual(sut.openStatusText, openStatusText)
+            XCTFail("OpenStatus is nil in PlaceCellDataModel")
             return
         }
         openStatusText = isOpen ? "We are open. Hop in now!!" : "Sorry we are closed."
