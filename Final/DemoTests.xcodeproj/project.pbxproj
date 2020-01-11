@@ -226,9 +226,11 @@
 				TargetAttributes = {
 					6B3158B720CD686700CEABD0 = {
 						CreatedOnToolsVersion = 9.3.1;
+						LastSwiftMigration = 1120;
 					};
 					6B3158CB20CD686900CEABD0 = {
 						CreatedOnToolsVersion = 9.3.1;
+						LastSwiftMigration = 1120;
 						TestTargetID = 6B3158B720CD686700CEABD0;
 					};
 				};
@@ -455,7 +457,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = phoneBook.DemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -473,7 +475,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = phoneBook.DemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -493,7 +495,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = phoneBook.DemoTestsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DemoTests.app/DemoTests";
 			};
@@ -514,7 +516,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = phoneBook.DemoTestsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DemoTests.app/DemoTests";
 			};
